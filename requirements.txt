@@ -1,3 +1,7 @@
 fastapi
 uvicorn
 gunicorn
+streamlit
+requests
+python-dotenv
+
